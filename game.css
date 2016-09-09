@@ -2,6 +2,10 @@
     color: grey;
 }
 
+#invalid-square {
+    color: orangered
+}
+
 #title {
     text-align: center;
     font-family: helvetica, arial, sans-serif;
