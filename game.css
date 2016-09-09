@@ -1,64 +1,64 @@
 #turn {
-    color: grey;
+  color: grey;
 }
 
 #invalid-square {
-    color: orangered
+  color: orangered
 }
 
 #title {
-    text-align: center;
-    font-family: helvetica, arial, sans-serif;
-    background: linear-gradient(90deg, white 50%, black 50%);
+  text-align: center;
+  font-family: helvetica, arial, sans-serif;
+  background: linear-gradient(90deg, white 50%, black 50%);
 
 }
 
 canvas {
-    display : block;
-    margin : auto;
+  display : block;
+  margin : auto;
 }
 
 #box1 {
-    padding: 30px;
-    margin-left: 27px;
-    color: green;
-    font-weight: bold;
+  padding: 30px;
+  margin-left: 27px;
+  color: green;
+  font-weight: bold;
 }
 
 #box2 {
-    padding: 30px;
-    margin-left: 27px;
-    color: green;
-    font-weight: bold;
+  padding: 30px;
+  margin-left: 27px;
+  color: green;
+  font-weight: bold;
 }
 
 #start {
-    width: 90px;
-    height: 90px;
-    border-radius: 45px;
-    margin-left: 0px;
-    background: linear-gradient(90deg, black 50%, white 50%);
-    border-width: 10px;
-    border-color: darkseagreen;
-    color: cadetblue;
-    font-size: medium;
-    font-weight: bold;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
+  margin-left: 0px;
+  background: linear-gradient(90deg, black 50%, white 50%);
+  border-width: 10px;
+  border-color: darkseagreen;
+  color: cadetblue;
+  font-size: medium;
+  font-weight: bold;
 }
 
 #othello-right {
-    color: white;
-    width: 50%;
-    float: right;
-    text-align: left;
-    font-size: 50px;
-    margin-top: -40px;
+  color: white;
+  width: 50%;
+  float: right;
+  text-align: left;
+  font-size: 50px;
+  margin-top: -40px;
 }
 
 #othello-left {
-    color: black;
-    width: 50%;
-    float: left;
-    text-align: right;
-    font-size: 50px;
-    margin-top: -40px;
+  color: black;
+  width: 50%;
+  float: left;
+  text-align: right;
+  font-size: 50px;
+  margin-top: -40px;
 }
