@@ -1,4 +1,3 @@
-const Board = require('../lib/board');
 const Player = require('../lib/player');
 const assert = require('assert');
 
