@@ -1,8 +1,5 @@
 const Board = require('../lib/board');
-const Player = require('../lib/player');
 const Game = require('../lib/game');
-const Piece = require('../lib/piece');
-const Square = require('../lib/square');
 const assert = require('assert');
 
 describe('Game', function() {
@@ -42,6 +39,4 @@ describe('Game', function() {
 
         assert(square.piece);
     });
-
-
 });
